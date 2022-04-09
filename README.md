@@ -42,6 +42,7 @@
 - `inout`
 
 ## [STEP 1]
+[STEP1 PR](https://github.com/yagom-academy/ios-number-baseball/pull/77)
 
 ### 고민한점
 
@@ -108,6 +109,7 @@ func convertSetToString(of values: Set<Int>) -> String {
 
 
 ## [STEP 2]
+[STEP2 PR](https://github.com/yagom-academy/ios-number-baseball/pull/91)
 
 ### 고민한점
 
